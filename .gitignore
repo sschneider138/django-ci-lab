@@ -122,7 +122,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-<<<<<<< HEAD
 .env
 .venv
 env/
@@ -132,7 +131,6 @@ env.bak/
 venv.bak/
 =======
 .venv
->>>>>>> origin/master
 
 # Spyder project settings
 .spyderproject
@@ -165,7 +163,6 @@ cython_debug/
 
 # migrations
 migrations/
-
 
 *.log
 *.pot
